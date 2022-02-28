@@ -1,6 +1,6 @@
 # Photography Portfolio
 
-[link](https://photo-portfolio-uday.netlify.app/)
+[Website link](https://photo-portfolio-uday.netlify.app/)
 
 # Getting Started with Create React App
 
